@@ -7,6 +7,7 @@
 <p align="left">
     <a href="https://babeljs.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40" /> </a>
+    <a href="https://fishshell.com/" target="_blank"><img src="https://duckduckgo.com/i/ff1b4eeb.png" alt="fish shell" width="40" height="40"</a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
