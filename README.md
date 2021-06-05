@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Fish shell](https://fishshell.com/)
 
-- 💬 Ask me about **PHP, Laravel and anything else ;)**
+- 💬 Ask me about **Javascript, Laravel and anything else ;)**
 
 - ⚡ Fun fact **I am from Cairo, Egypt**
 
