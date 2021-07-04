@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
 <h3 align="center">A passionate 15 y/o full-stack developer</h3>
 
-- 🌱 I’m currently learning **Networking, Java, Golang and Rust** - 👯 I’m looking to collaborate on [Fish shell](https://fishshell.com/) - 💬 Ask me about **Javascript, Laravel and anything else ;)** - ⚡ Fun fact **I am from Cairo, Egypt**
+- 🌱 I’m currently learning **Networking, Java, Golang and Rust** - 😏 I use arch btw - 💬 Ask me about **Javascript, PHP, Python and anything else ;)** - ⚡ Fun fact **I am from Cairo, Egypt**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -16,7 +16,6 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="40" height="40" /> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
