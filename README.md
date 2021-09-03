@@ -70,7 +70,7 @@
 	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" />
 </a>
 <a href="https://jquery.com/" target="_blank">
-	<img src="https://imgr.search.brave.com/uE8WOs8tuH6AIz36Wy1iMxcoTmvZTQL3mLuLFV0y_eo/fit/400/400/no/1/aHR0cHM6Ly9hdmF0/YXJzMC5naXRodWJ1/c2VyY29udGVudC5j/b20vdS83MDE0Mj92/PTMmcz00MDA" alt="jquery" width="60" height="60" />
+	<img src="https://platform-user-uploads.s3.amazonaws.com/blog/category/logo/40/jquery.png" alt="jquery" width="60" height="60" />
 </a>
 <a href="https://laravel.com/" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60" />
